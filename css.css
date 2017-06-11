@@ -1,0 +1,42 @@
+h1{color:purple;font-size:38px;}
+
+h3{color:purple;font-size:20px}
+
+BODY{background:url(DarkTower.jpeg) no-repeat;
+background-attachment: fixed;
+background-size:100%
+}
+P{font-family: Geneva, Verdana; font-size: 14px;}
+
+BODY{
+margin-top:30px;
+margin-bottom:30px;
+margin-right:30px;
+margin-left:30px;
+}
+
+P{text-indent:35px;}
+
+
+ul li {
+padding-left: 10px;
+background: url(bullet.gif) 0 5px no-repeat;
+list-style-type: square;
+font-size: 17px;
+}
+
+
+
+table {
+ background: purple;
+}
+
+th {
+    background:#e8eaeb;
+}
+
+td {
+    background:#e8eaeb;
+}
+
+
